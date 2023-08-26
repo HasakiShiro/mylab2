@@ -1,4 +1,4 @@
-# PSD-TP-week1-labs
+# PSD-TP-week1-labs for the Common Team (to all students)
 ## Good days Class. In the week 1 labs of PSD-TP, you will learn how to use the Github repositories for your TP projects
 ## Please set your TP repositories into Private mode, to protect the source codes of your TP projects
 ## We will create separate teams and repositories in Github for your own TP projects. We will invite corresponding students into Github teams
