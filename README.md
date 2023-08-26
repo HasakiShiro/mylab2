@@ -11,7 +11,7 @@
 4. Pull the remote repository to your laptops
 5. Modify the README.md of the repository
 
-> changed by C
+> this file is revised by C at 8:30 am on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - add _your message_ here
 >
