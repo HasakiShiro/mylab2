@@ -11,7 +11,8 @@
 4. Pull the remote repository to your laptops
 5. Modify the README.md of the repository
 
-# changed by C
-- hello world
+> changed by C
+> - hello world
+>
 
 
