@@ -12,7 +12,8 @@
 5. Modify the README.md of the repository
 
 > changed by C
-> - hello world
+> - hello world for **week 1 labs**
+> - add _your message_ here
 >
 
 
