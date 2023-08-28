@@ -13,7 +13,7 @@
 
 > this file is revised by C at 8:30 am on 30 Aug 2023
 > - hello world for **week 1 labs**
-> - add _your message_ here
+> - add _your message_ here: _other students please continue adding your messages next_
 >
 
 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
