@@ -19,7 +19,7 @@
 5. Modify the README.md of the repository
 
 > this file is revised by C at 8:30 am on 30 Aug 2023
->
+> - Hello my name is AH Slim Shady.
 > - hello world for **week 1 labs**
 > - Hello my name is TianHow.
 > - hello my name is Xun Rui.
