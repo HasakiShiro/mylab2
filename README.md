@@ -150,3 +150,6 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 
+> This file is revised by Lee Mun Hong at 18:22 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
