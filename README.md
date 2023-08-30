@@ -45,3 +45,7 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+> This file is revised by KT at 17:36 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
