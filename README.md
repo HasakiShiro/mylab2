@@ -125,8 +125,8 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 
-
-> This file is revised by Jing Yi at 18:08 pm on 30 Aug 2023
+> This file is revised by Xiang Yuan at 17:59 pm on 30 Aug 2023
+>>>>>>> 1e4ed43ab0d150a42845e89de1718867406fa619
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
