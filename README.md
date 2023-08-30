@@ -19,7 +19,7 @@
 5. Modify the README.md of the repository
 
 > this file is revised by C at 8:30 am on 30 Aug 2023
->
+> - Hello my name is AH Slim Shady.
 > - hello world for **week 1 labs**
 > - Hello my name is TianHow.
 > - hello my name is Xun Rui.
@@ -128,8 +128,7 @@
 > This file is revised by Siongyu at 17:58 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
-<<<<<<< HEAD
-=======
+
 
 > This file is revised by Xiang Yuan at 17:59 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
@@ -144,13 +143,18 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+
+> This file is revised by JL at 18:16 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+
 > This file is revised by Joo Wee at 18:16 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
-<<<<<<< HEAD
 >
 >This file is revised bt Tan Jia Wen at 18:20 pm on 30 Aug 2023
-=======
+
 
 > This file is revised by Desmond Loy at 18:20 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
@@ -165,11 +169,14 @@
 > - Bye bye world
 
 > This file is revised by Xue Er at 18:19 pm on 30 Aug 2023
->>>>>>> f0b73770b89f8dc1dbc2874357f1e95dcc99e8c9
 > - hello world for **week 1 labs**
 > - Bye bye world
+
 >
 > This file is revised by Tan Jia Wen at 18:23 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
->>>>>>> f0b73770b89f8dc1dbc2874357f1e95dcc99e8c9
+
+> This file is revised by Phua Tiffany at 6:36 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
