@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# PxSD-TP-week1-labs for the Common Team (to all students)
-=======
 # ==PSD-TP-week1-labs== for the Common Team (to all students)
->>>>>>> 6db0e72c1fac52103a5be32a1aa98759eb1335b6
 
 ## Good days Class. In the week 1 labs of PSD-TP, you will learn how to use the Github repositories for your TP projects
 
@@ -65,32 +61,16 @@
 > - hello world for **Week 1 labs**
 > - Bye bye world
 >
-<<<<<<< HEAD
-
-=======
->>>>>>> 6db0e72c1fac52103a5be32a1aa98759eb1335b6
 
 > This file is revised by JW at 17.45 pm on 30 Aug 2023
 > - hello world for **Week 1 labs**
 > - Bye bye world
 >
-<<<<<<< HEAD
-
-=======
->>>>>>> 6db0e72c1fac52103a5be32a1aa98759eb1335b6
 > This file is revised by Huilun at 17:32 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
 
-<<<<<<< HEAD
-> This file is revised by Rayson at 17:32 pm on 30 Aug 2023
-> - hello world for **week 1 labs**
-> - Bye bye world
->
-
-=======
->>>>>>> 6db0e72c1fac52103a5be32a1aa98759eb1335b6
 > This file is revised by KT at 17:36 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
@@ -110,8 +90,22 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
-<<<<<<< HEAD
-=======
+> This file is revised by Mirza at 17:50 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by Mirza at 17:50 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by Mirza at 17:50 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by Mirza at 17:50 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
 > This file is revised by Kah Kian at 17:50 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Lmao world
@@ -131,9 +125,13 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 
+<<<<<<< HEAD
 >>>>>>> 6db0e72c1fac52103a5be32a1aa98759eb1335b6
 
+=======
+>>>>>>> 8d80a3538a9e9565fad7b1a180cf457d92aa4c14
 > This file is revised by Xiang Yuan at 17:59 pm on 30 Aug 2023
+>>>>>>> 1e4ed43ab0d150a42845e89de1718867406fa619
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
