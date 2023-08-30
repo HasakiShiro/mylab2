@@ -1,4 +1,4 @@
-# PSD-TP-week1-labs for the Common Team (to all students)
+# ==PSD-TP-week1-labs== for the Common Team (to all students)
 
 ## Good days Class. In the week 1 labs of PSD-TP, you will learn how to use the Github repositories for your TP projects
 
@@ -61,8 +61,6 @@
 > - hello world for **Week 1 labs**
 > - Bye bye world
 >
-<<<<<<< HEAD
-=======
 
 > This file is revised by JW at 17.45 pm on 30 Aug 2023
 > - hello world for **Week 1 labs**
@@ -91,8 +89,11 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+<<<<<<< HEAD
 >>>>>>> 3745f205cc59c92618f5426c22c9140d87003d2a
-> > > This file is revised by ashleytyj at 17.53 pm on 30 Aug 2023
+> This file is revised by ashleytyj at 17.53 pm on 30 Aug 2023
 > - hello world for **Week 1 labs**
 > - Bye bye world
 
+=======
+>>>>>>> 5a8ed726e8a7c2f8e6f1bed2c5f33f14cfad0710
