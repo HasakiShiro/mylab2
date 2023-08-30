@@ -111,3 +111,7 @@
 > - __mayday mayday mayday!!__
 >
 >>>>>>> dda1a67b7e8b837881bd61eb8404d12006d77ff6
+> This file is revised by Eman at 17:55 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
