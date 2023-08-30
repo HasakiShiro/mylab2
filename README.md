@@ -207,6 +207,7 @@
 > This file is revised by ELROY at 19:27 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
->
 
->>>>>>> c97a18f596adbc47c383b16e976ee5688631c5ef
+> This file is revised by Dinie at 7.30 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - [peepeepoopoo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
