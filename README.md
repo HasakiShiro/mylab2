@@ -307,3 +307,8 @@
 >
 > - hello world for **week 1 labs**
 > - Bye Bye World! 🤡
+
+> This file is revised by Loo Zong Poh at 1:00am on 31 Aug 2023
+>
+> - hello world for **week 1 labs**
+> - Good Night
