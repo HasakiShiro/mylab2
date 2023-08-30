@@ -303,4 +303,7 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 
-🤡
+> This file is revised by Peter F at 11:57pm on 30 Aug 2023
+>
+> - hello world for **week 1 labs**
+> - Bye Bye World! 🤡
