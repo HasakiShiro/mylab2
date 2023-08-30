@@ -21,6 +21,7 @@
 > this file is revised by C at 8:30 am on 30 Aug 2023
 >
 > - Hello my name is Cliff.
+> - Hello my name is Joshua.
 > - Hello my name is Kuang Yi.
 > - Hello my name is zc.
 > - Hello my name is AH Slim Shady.
@@ -296,3 +297,9 @@
 > This file is revised by Cliff at 11:17pm on 30 Aug 2023
 
 > - Hello there **week 1 labs**
+
+> This file is revised by Lim Joshua at 11:29 pm on 30 Aug 2023
+>
+> - hello world for **week 1 labs**
+> - Bye bye world
+
