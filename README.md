@@ -28,6 +28,7 @@
 > - Hello my name is TianHow.
 > - hello my name is Xun Rui.
 > - Hello my name is Roy Teong Ying Jun.
+> - Hello my name is Ryan Ong
 
 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository. 
