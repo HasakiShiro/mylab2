@@ -139,3 +139,6 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+> This file is revised by Joo Wee at 18:16 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
