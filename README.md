@@ -23,6 +23,7 @@
 > - hello world for **week 1 labs**
 > - Hello my name is tianhow.
 > - hello my name is Xun Rui.
+> - Hello my name is Roy Teong Ying Jun.
 
 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository. 
