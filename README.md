@@ -281,3 +281,8 @@
 > 
 > - hello world for **week 1 labs**
 > - Bye bye world
+
+> This file is revised by Jian Jie at 10:47pm on 30 Aug 2023
+> 
+> - hello world for **week 1 labs**
+> - Bye bye world
