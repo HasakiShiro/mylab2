@@ -125,8 +125,6 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
-<<<<<<< HEAD
-=======
 > This file is revised by Kah Kian at 17:50 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Lmao world
@@ -146,4 +144,3 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 
->>>>>>> 6db0e72c1fac52103a5be32a1aa98759eb1335b6
