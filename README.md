@@ -131,3 +131,6 @@
 > - Bye bye world
 
 >>>>>>> 6db0e72c1fac52103a5be32a1aa98759eb1335b6
+> This file is revised by Shiya at 18:07 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
