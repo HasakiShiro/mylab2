@@ -43,6 +43,7 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+> hello world
 
 > This file is revised by Timothy at 17:40 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
@@ -111,7 +112,6 @@
 > - Lmao world
 > 
 
-
 > This file is revised by ashleytyj at 17.53 pm on 30 Aug 2023
 > - hello world for **Week 1 labs**
 > - Bye bye world
@@ -120,20 +120,47 @@
 > - hello world for **week 1 labs**
 > - __mayday mayday mayday!!__
 >
->
+
 > This file is revised by Siongyu at 17:58 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
->
+
 > This file is revised by Xiang Yuan at 17:59 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+
+> This file is revised by Javier at 18:15 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
 > This file is revised by Shiya at 18:11 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+
 > This file is revised by JL at 18:16 pm on 30 Aug 2023
-> -hello world for **week 1 labs**
+> - hello world for **week 1 labs**
 > - Bye bye world
 >
+
+> This file is revised by Joo Wee at 18:16 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
+> This file is revised by Desmond Loy at 18:20 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by CleonTay at 18:19 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
+> This file is revised by Lee Mun Hong at 18:22 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
+> This file is revised by Xue Er at 18:19 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
