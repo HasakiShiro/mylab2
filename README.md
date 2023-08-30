@@ -1,4 +1,4 @@
-# PSD-TP-week1-labs for the Common Team (to all students)
+# ==PSD-TP-week1-labs== for the Common Team (to all students)
 
 ## Good days Class. In the week 1 labs of PSD-TP, you will learn how to use the Github repositories for your TP projects
 
@@ -23,6 +23,7 @@
 > - hello world for **week 1 labs**
 > - Hello my name is tianhow.
 > - hello my name is Xun Rui.
+> - Hello my name is Roy Teong Ying Jun.
 
 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository. 
