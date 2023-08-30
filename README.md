@@ -111,7 +111,6 @@
 > - Lmao world
 > 
 
-
 > This file is revised by ashleytyj at 17.53 pm on 30 Aug 2023
 > - hello world for **Week 1 labs**
 > - Bye bye world
@@ -120,18 +119,12 @@
 > - hello world for **week 1 labs**
 > - __mayday mayday mayday!!__
 >
->
+
 > This file is revised by Siongyu at 17:58 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 
-<<<<<<< HEAD
->>>>>>> 6db0e72c1fac52103a5be32a1aa98759eb1335b6
-
-=======
->>>>>>> 8d80a3538a9e9565fad7b1a180cf457d92aa4c14
 > This file is revised by Xiang Yuan at 17:59 pm on 30 Aug 2023
->>>>>>> 1e4ed43ab0d150a42845e89de1718867406fa619
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
@@ -140,5 +133,9 @@
 > - Bye bye world
 >
 > This file is revised by Joo Wee at 18:16 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
+> This file is revised by Joo Wee at 18:17 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
