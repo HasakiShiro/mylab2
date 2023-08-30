@@ -42,16 +42,54 @@
 > - Bye bye world
 >
 
+> This file is revised by Timothy at 17:40 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
 > this file is revised by Tian How at 8:30 am on 30 Aug 2023
 >
+> This file is revised by PETER at 17:35 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by xrando at 17.36 pm on 30 Aug 2023
+> - hello world for **Week 1 labs**
+> - Bye bye world
+>
+> This file is revised by xrando at 17.36 pm on 30 Aug 2023
+> - hello world for **Week 1 labs**
+> - Bye bye world
 >
 
-> this file is revised by Xun Rui at 8:30 am on 30 Aug 2023
->
-> - hello world for **week 1 labs**
->
-this file is revised by Rayson at 8:30 am on 30 Aug 2023
 
-hello world for week 1 labs
-Hello my name is rayson.
+> This file is revised by JW at 17.45 pm on 30 Aug 2023
+> - hello world for **Week 1 labs**
+> - Bye bye world
+>
+
+> This file is revised by Huilun at 17:32 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+
+> This file is revised by Rayson at 17:32 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+
+> This file is revised by KT at 17:36 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by Sean Chan at 17:45 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by Aaron at 17:45 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by Max at 17:50 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
