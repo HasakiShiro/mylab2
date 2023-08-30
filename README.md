@@ -170,10 +170,6 @@
 >
 > - hello world for **week 1 labs**
 > - Bye bye world
->
-> <<<<<<< HEAD
->
-> > > > > > > # 7bb22d587ecdfab1988f6c498936f38bad48c0d4
 
 > This file is revised by JL at 18:16 pm on 30 Aug 2023
 >
@@ -237,8 +233,6 @@
 >
 > - hello world for **week 1 labs**
 > - Bye bye world , check email
->   <<<<<<< HEAD
->   > > > > > > # 5dcc33d1ce5f16b25acf5610512bb8dc487b32a9
 
 > meow
 > testing by me
@@ -252,7 +246,6 @@
 >
 > - hello world for **week 1 labs**
 > - [peepeepoopoo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
->   > > > > > > a85725fd903428a12296501e49f1a26106c293cf
 
 > This file is revised by Eman at 19:32 pm on 30 Aug 2023
 >
