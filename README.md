@@ -60,6 +60,16 @@
 > - hello world for **Week 1 labs**
 > - Bye bye world
 >
+<<<<<<< HEAD
+=======
+
+> This file is revised by JW at 17.45 pm on 30 Aug 2023
+> - hello world for **Week 1 labs**
+> - Bye bye world
+>
+<<<<<<< HEAD
+
+>>>>>>> fe12410 (Modified README)
 > This file is revised by Huilun at 17:32 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
