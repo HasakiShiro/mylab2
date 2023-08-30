@@ -61,14 +61,31 @@
 > - hello world for **Week 1 labs**
 > - Bye bye world
 >
+
+> This file is revised by JW at 17.45 pm on 30 Aug 2023
+> - hello world for **Week 1 labs**
+> - Bye bye world
+>
 <<<<<<< HEAD
 
+>>>>>>> fe12410 (Modified README)
 > This file is revised by Huilun at 17:32 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
->>>>>>> ec020cc4746b5bf994231a15655eaadd1eb2da27
-=======
+> - Bye bye world
+>
 > This file is revised by KT at 17:36 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
->>>>>>> 656afd94491ca1f46fbd89719f33fbf8f3458c4e
+> This file is revised by Sean Chan at 17:45 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by Aaron at 17:45 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by Max at 17:50 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
