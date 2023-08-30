@@ -26,6 +26,7 @@
 > - hello my name is Xun Rui.
 > - Hello my name is Roy Teong Ying Jun.
 > - Hello my name is Ryan Ong
+> - Hello my name is Yu Jie
 
 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository. 
@@ -55,6 +56,7 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+
 > This file is revised by xrando at 17.36 pm on 30 Aug 2023
 > - hello world for **Week 1 labs**
 > - Bye bye world
@@ -200,4 +202,25 @@
 > This file is revised by Jun Wei at 7.00 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world , check email
+<<<<<<< HEAD
 >>>>>>> 5dcc33d1ce5f16b25acf5610512bb8dc487b32a9
+=======
+
+> meow
+> testing by me
+
+> This file is revised by ELROY at 19:27 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
+> This file is revised by Dinie at 7.30 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - [peepeepoopoo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+>>>>>>> a85725fd903428a12296501e49f1a26106c293cf
+
+> This file is revised by Eman at 19:32 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+
+
+
