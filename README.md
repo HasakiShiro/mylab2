@@ -33,4 +33,12 @@
 > - Bye bye world
 >
 
+> This file is revised by ACE at 17:35 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
+> This file is revised by JASPER at 17:37 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
 
