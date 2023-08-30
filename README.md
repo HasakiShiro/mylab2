@@ -23,6 +23,7 @@
 > - hello world for **week 1 labs**
 > - Hello my name is tianhow.
 > - hello my name is Xun Rui.
+> - Hello my name is Roy Teong Ying Jun.
 
 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository. 
@@ -46,8 +47,7 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 
-> this file is revised by Tian How at 8:30 am on 30 Aug 2023
->
+> this file is revised by Tian How at 8:30 am on 30 Aug 2023>
 > This file is revised by PETER at 17:35 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
@@ -69,18 +69,22 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+
 > This file is revised by KT at 17:36 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+
 > This file is revised by Sean Chan at 17:45 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+
 > This file is revised by Aaron at 17:45 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 >
+
 > This file is revised by Max at 17:50 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
@@ -90,4 +94,13 @@
 > - Lmao world
 > 
 
+
+> This file is revised by ashleytyj at 17.53 pm on 30 Aug 2023
+> - hello world for **Week 1 labs**
+> - Bye bye world
+
+> This file is revised by MayDay at 17:55 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - __mayday mayday mayday!!__
+>
 
