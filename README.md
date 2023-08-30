@@ -42,6 +42,21 @@
 > - Bye bye world
 >
 
+<<<<<<< HEAD
 > This file is revised by Timothy at 17:40 pm on 30 Aug 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
+=======
+> this file is revised by Tian How at 8:30 am on 30 Aug 2023
+>
+> - hello world for **week 1 labs**
+>
+
+> this file is revised by Xun Rui at 8:30 am on 30 Aug 2023
+>
+> - hello world for **week 1 labs**
+>
+
+> This file is revised by Huilun at 17:32 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+>>>>>>> ec020cc4746b5bf994231a15655eaadd1eb2da27
