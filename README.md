@@ -71,3 +71,8 @@
 > - Bye bye world
 >
 >>>>>>> 656afd94491ca1f46fbd89719f33fbf8f3458c4e
+
+> This file is revised by Sean Chan at 17:45 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
+>
