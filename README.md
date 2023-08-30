@@ -19,6 +19,7 @@
 5. Modify the README.md of the repository
 
 > this file is revised by C at 8:30 am on 30 Aug 2023
+> - Hello my name is zc.
 > - Hello my name is AH Slim Shady.
 > - hello world for **week 1 labs**
 > - Hello my name is TianHow.
@@ -181,6 +182,9 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 
+> This file is revised by Frederick at 6:36 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
 
 > This file is revised by Jeffrey Yap at 6.45 pm on 30 Aug 2023
 > - hello hello 
