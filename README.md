@@ -189,4 +189,8 @@
 > This file is revised by Jeffrey Yap at 6.45 pm on 30 Aug 2023
 > - hello hello 
 > - **cya world** 
-> - sssssss 
+> - sssssss
+
+> This file is revised by Veleon Lim at 6:59 pm on 30 Aug 2023
+> - hello world for **week 1 labs**
+> - Bye bye world
