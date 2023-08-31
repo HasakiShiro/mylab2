@@ -27,15 +27,17 @@
 > - Hello my name is AH Slim Shady.
 > - hello world for **week 1 labs**
 > - Hello my name is TianHow.
+> - Hello my name is Ryan Lye.
 > - hello my name is Xun Rui.
 > - Hello my name is Roy Teong Ying Jun.
 > - Hello my name is Ryan Ong
 > - Hello my name is Yu Jie
 > - Hello my name is Yi Qing
 > - Hello my name is Cao Qi
-6. After that, please commit your changes and push your local revised README.md back to this Github repository.
-7. Everyone in the class should be able to see the commonly updated README.md contents at this repository.
-> This file is revised by Yi Qing at 20:20 pm on 30 Aug 2023
+>
+> 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
+> 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository.
+>    This file is revised by Yi Qing at 20:20 pm on 30 Aug 2023
 >
 > - hello world for **week 1 labs**
 > - Bye bye world
@@ -152,7 +154,7 @@
 
 > This file is revised by MayDay at 17:55 pm on 30 Aug 2023
 >
-> - hello world for **week 1 labs*> - **mayday mayday mayday!!**
+> - hello world for **week 1 labs\*> - **mayday mayday mayday!!\*\*
 
 > This file is revised by Siongyu at 17:58 pm on 30 Aug 2023
 >
@@ -276,17 +278,17 @@
 > - Bye bye world
 
 > This file is revised by Joy at 10:32pm on 30 Aug 2023
-> 
+>
 > - hello world for **week 1 labs**
 > - Bye bye world
 
 > This file is revised by Colin at 10:40pm on 30 Aug 2023
-> 
+>
 > - hello world for **week 1 labs**
 > - Bye bye world
 
 > This file is revised by Jian Jie at 10:47pm on 30 Aug 2023
-> 
+>
 > - hello world for **week 1 labs**
 > - Bye bye world
 
@@ -319,7 +321,7 @@
 > - hello world for **week 1 labs**
 > - Good Night
 
->> ***<h1>yo</h1>***
+> > **_<h1>yo</h1>_**
 
 > This file is revised by Xavier Ong at 08:37am on 31 Aug 2023
 >
@@ -327,7 +329,7 @@
 > - Bye bye world :)
 
 > This file is revised by YG at 11:36 am on 31 Aug 2023
-> 
+>
 > - Hello world
 > - Bye all
 
@@ -336,3 +338,7 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 
+> This file is revised by Ryan Lye at 11.01pm on 31 Aug 2023
+>
+> - hello world for **week 1 labs**
+> - Goodnight i want to sleep
