@@ -342,3 +342,8 @@
 >
 > - hello world for **week 1 labs**
 > - Goodnight i want to sleep
+
+> This file is revised by Moreno Koko at 12.34am on 1 Sep 2023
+>
+> - hello world for **week 1 labs**
+> - Bye bye world
