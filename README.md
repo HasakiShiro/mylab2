@@ -324,6 +324,8 @@
 > - Hello world for **week 1 labs**
 > - Bye bye world :)
 
->>>>>>> 851612024154dd6ee2cb3ad16a68e1bc4ce7fb0b
-
+> This file is revised by YG at 11:36 am on 31 Aug 2023
+> 
+> - Hello world
+> - Bye all 
 
