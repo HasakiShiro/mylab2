@@ -314,3 +314,9 @@
 > - Good Night
 
 >> ***<h1>yo</h1>***
+
+> This file is revised by Xavier Ong at 08:37am on 31 Aug 2023
+>
+> - Hello world for **week 1 labs**
+> - Bye bye world :)
+
