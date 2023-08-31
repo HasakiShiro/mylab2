@@ -329,5 +329,10 @@
 > This file is revised by YG at 11:36 am on 31 Aug 2023
 > 
 > - Hello world
-> - Bye all 
+> - Bye all
+
+> This file is revised by Hakeem Azman at 6.18pm on 31 Aug 2023
+>
+> - hello world for **week 1 labs**
+> - Bye bye world
 
