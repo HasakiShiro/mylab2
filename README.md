@@ -33,8 +33,15 @@
 > - Hello my name is Ryan Ong
 > - Hello my name is Yu Jie
 > - Hello my name is Lee Yi Qing
+> - Hello my name is Chua Joshua
 > - Hello my name is Cao Qi
 > 
+> This File is revised by Chua Joshua at 2:01 am on 3 Sept 2023
+>
+> - hello world for **week 1 labs**
+> - Bye Bye World
+> - Hello _Italics_, Hello _Bold_
+
 > This file is revised by Yi Qing at 20:20 pm on 30 Aug 2023
 >
 > - hello world for **week 1 labs**
