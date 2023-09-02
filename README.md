@@ -40,7 +40,7 @@
 >
 > - hello world for **week 1 labs**
 > - Bye Bye World
-> - Hello _Italics_, Hello _Bold_
+> - Hello _Italics_, Hello __Bold__
 
 > This file is revised by Yi Qing at 20:20 pm on 30 Aug 2023
 >
