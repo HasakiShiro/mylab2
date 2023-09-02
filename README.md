@@ -388,7 +388,7 @@ This file is revised by Zhen Line at 4.31pm on 2 Sep 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 
-#Heading 1
+# Heading 1
 **Testing out bold**
 *Testing out italics*
 > This is a block quote
