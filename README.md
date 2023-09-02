@@ -72,7 +72,7 @@
 > - hello world for **week 1 labs**
 > - Bye bye world
 
-> This file is revised by PETER GOH at 17:35 pm on 30 Aug 2023
+> This file is revised by Peter Goh at 17:35 pm on 30 Aug 2023
 >
 > - hello world for **week 1 labs**
 > - Bye bye world
@@ -387,3 +387,10 @@ This file is revised by Zhen Line at 4.31pm on 2 Sep 2023
 >
 > - hello world for **week 1 labs**
 > - Bye bye world
+
+#Heading 1
+**Testing out bold**
+*Testing out italics*
+> This is a block quote
+>
+> This is a block quote after a blank one
