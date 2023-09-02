@@ -17,8 +17,8 @@
 3. Add a remote repository to your laptops using Git Bash
 4. Pull the remote repository to your laptops
 5. Modify the README.md of the repository
-
-> this file is revised by C at 8:30 am on 30 Aug 2023
+6. After that, please commit your changes and push your local revised README.md back to this Github repository.
+7. Everyone in the class should be able to see the commonly updated README.md contents at this repository.
 >
 > - Hello my name is Cliff.
 > - Hello my name is Joshua.
@@ -34,10 +34,8 @@
 > - Hello my name is Yu Jie
 > - Hello my name is Lee Yi Qing
 > - Hello my name is Cao Qi
->
-> 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
-> 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository.
->    This file is revised by Yi Qing at 20:20 pm on 30 Aug 2023
+> 
+> This file is revised by Yi Qing at 20:20 pm on 30 Aug 2023
 >
 > - hello world for **week 1 labs**
 > - Bye bye world
