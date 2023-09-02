@@ -392,9 +392,11 @@ This file is revised by Zhen Line at 4.31pm on 2 Sep 2023
 **Testing out bold**
 
 *Testing out italics*
-1.First item
-2.Second item
-3.Third item
+
+1. First item
+2. Second item
+3. Third item
+
 > This is a block quote
 >
 > This is a block quote after a blank one
