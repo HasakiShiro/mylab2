@@ -393,6 +393,11 @@ This file is revised by Zhen Line at 4.31pm on 2 Sep 2023
 > - hello world for **week 1 labs**
 > - Bye bye world
 
+This file is revised by Rene at 3.40pm on 3 Sep 2023
+>
+> - hello world for **week 1 labs**
+> - bye bye world
+
 # Heading 1
 **Testing out bold**
 
