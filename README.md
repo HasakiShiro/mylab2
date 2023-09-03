@@ -300,7 +300,7 @@
 > This file is revised by Jian Rong at 10:57pm on 30 Aug 2023
 >
 > - hello world for **week 1 labs**
-> - Bye Bye World!
+> - BahBye World!
 
 > This file is revised by Cliff at 11:17pm on 30 Aug 2023
 
