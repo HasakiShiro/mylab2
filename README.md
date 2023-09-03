@@ -34,7 +34,6 @@
    > - Hello my name is Yu Jie
    > - Hello my name is Lee Yi Qing
    > - Hello my name is Chua Joshua
-   > - Hello my name is Cao Qi
    >
    > This File is revised by Chua Joshua at 2:01 am on 3 Sept 2023
    >
