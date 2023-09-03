@@ -19,7 +19,7 @@
 5. Modify the README.md of the repository
 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository.
->
+> - Hello my name is ZaiZhao
 > - Hello my name is Cliff.
 > - Hello my name is Joshua.
 > - Hello my name is Kuang Yi.
