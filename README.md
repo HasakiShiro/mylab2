@@ -19,28 +19,28 @@
 5. Modify the README.md of the repository
 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository.
-> - Hello my name is ZaiZhao
-> - Hello my name is Cliff.
-> - Hello my name is Joshua.
-> - Hello my name is Kuang Yi.
-> - Hello my name is zc.
-> - Hello my name is AH Slim Shady.
-> - hello world for **week 1 labs**
-> - Hello my name is TianHow.
-> - Hello my name is Ryan Lye.
-> - hello my name is Xun Rui.
-> - Hello my name is Roy Teong Ying Jun.
-> - Hello my name is Ryan Ong
-> - Hello my name is Yu Jie
-> - Hello my name is Lee Yi Qing
-> - Hello my name is Chua Joshua
-> - Hello my name is Cao Qi
-> 
-> This File is revised by Chua Joshua at 2:01 am on 3 Sept 2023
->
-> - hello world for **week 1 labs**
-> - Bye Bye World
-> - Hello _Italics_, Hello __Bold__
+   > - Hello my name is ZaiZhao
+   > - Hello my name is Cliff.
+   > - Hello my name is Joshua.
+   > - Hello my name is Kuang Yi.
+   > - Hello my name is zc.
+   > - Hello my name is AH Slim Shady.
+   > - hello world for **week 1 labs**
+   > - Hello my name is TianHow.
+   > - Hello my name is Ryan Lye.
+   > - hello my name is Xun Rui.
+   > - Hello my name is Roy Teong Ying Jun.
+   > - Hello my name is Ryan Ong
+   > - Hello my name is Yu Jie
+   > - Hello my name is Lee Yi Qing
+   > - Hello my name is Chua Joshua
+   > - Hello my name is Cao Qi
+   >
+   > This File is revised by Chua Joshua at 2:01 am on 3 Sept 2023
+   >
+   > - hello world for **week 1 labs**
+   > - Bye Bye World
+   > - Hello _Italics_, Hello **Bold**
 
 > This file is revised by Yi Qing at 20:20 pm on 30 Aug 2023
 >
@@ -354,54 +354,60 @@
 > - Bye bye world
 
 This file is revised by Elias Lim at 12.59am on 1 Sep 2023
->
+
 > - hello world for **week 1 labs**
 > - Bye bye world
 
 This file is revised by Yan Ning at 1:21am on 1 Sep 2023
->
+
 > - hello world for **week 1 labs**
 > - Bye bye world
 
 This file is revised by Samuel Lim at 2:21am on 2 Sep 2023
->
+
 > - hello world for **week 1 labs** xd
 > - Bye bye world
 
 This file is revised by Iskandar at 2:22am on 2 Sep 2023
->
+
 > - hello world for **week 1 labs** xd
 > - Bye bye world
 
 This file is revised by Ray Lim at 12:35am on 2 Sep 2023
->
+
 > - hello world for **week 1 labs** xd
 > - Bye bye world
 
 This file is revised by Keagan Wong at 11:27am on 2 Sep 2023
->
+
 > - hello world for **week 1 labs** xd
 > - Bye bye world
 
 This file is revised by Sherwyn at 1.17pm on 2 Sep 2023
->
+
 > - hello world for **week 1 labs**
 > - Bye bye world
 
 This file is revised by Zhen Line at 4.31pm on 2 Sep 2023
->
+
 > - hello world for **week 1 labs**
 > - Bye bye world
 
 This file is revised by Rene at 3.40pm on 3 Sep 2023
->
+
+> - hello world for **week 1 labs**
+> - bye bye world
+
+This file is revised by Hafizh at 1.24am on 4 Sep 2023
+
 > - hello world for **week 1 labs**
 > - bye bye world
 
 # Heading 1
+
 **Testing out bold**
 
-*Testing out italics*
+_Testing out italics_
 
 1. First item
 2. Second item
