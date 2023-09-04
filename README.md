@@ -402,6 +402,10 @@ This file is revised by Hafizh at 1.24am on 4 Sep 2023
 > - hello world for **week 1 labs**
 > - bye bye world
 
+> This file is revised by Wei Jun at 11:46am on 4 Sep 2023
+> - hello world for **week 1 labs**
+> - bye bye world
+
 # Heading 1
 
 **Testing out bold**
